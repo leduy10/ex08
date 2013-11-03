@@ -20,13 +20,22 @@ youtube site (http://www.youtube.com/watch?v=NXRIrP1k4dE).  As such, we are able
 that would solve such a problem:
 
 1) Place the number 1 and 2 at their final place in the upper left corner.
+
 2) Place the number 3 in the upper right corner.
+
 3) Place the number 4 under the number 3.
+
 4) Slide the number 3 to the left and the number 4 up.
+
 5) The first row is now completed.  We don't need to touch it anymore.
+
 6) Repeat the steps 1 to 4 for the second row.
+
 7) The second row is now completed.  We don't need to touch it anymore.
+
 8) Place the number 9 and 13 at their final place.
+
 9) Place the number 10 and 14 at their final place.
+
 10) Rearrange the numbers 11, 12 and 15 at their final place in the lower right corner.
 
